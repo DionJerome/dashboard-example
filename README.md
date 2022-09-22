@@ -10,7 +10,7 @@ Within the terminal of the project directory, you can run:
 
 ### `npm start` or `yarn start`
 
-This will compile your project and should open a browser window to [http://localhost:3000](http://localhost:3000).\
+This will compile your project and should open a browser window to [http://localhost:3000](http://localhost:3000).
 
 If no browser window opens, go to a broswer of your choosing and open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -19,7 +19,7 @@ You may also see any errors in the console.
 
 ### `ctrl c`
 
-Use this command in the terminal of the project directory to stop running your React App.\
+Use this command in the terminal of the project directory to stop running your React App.
 
 ## Learn More
 
